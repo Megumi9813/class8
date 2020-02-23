@@ -6,3 +6,8 @@
     font-size: 30px;
     font: bold;
 }
+
+.contents-item {
+    font: bold;
+    color: green;
+}
